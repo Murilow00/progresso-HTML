@@ -28,7 +28,7 @@ h2 {
 }
 
 .flex-container {
-    width: 90%;
+    width: 40%;
     height: 200px;
     background-color: rgb(45, 45, 46);
     margin: 0 auto 20px;
@@ -38,7 +38,7 @@ h2 {
 }
 
 .flex-item {
-    width: 80px;
+    width: 40%;
     height: 80px;
     background-color: rgb(0, 0, 0);
     border: 2px solid rgb(255, 255, 255);
