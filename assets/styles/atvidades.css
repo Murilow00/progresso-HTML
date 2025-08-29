@@ -43,3 +43,28 @@
 .roxo {
     background-color: blueviolet;
 }
+
+.semaforo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    gap: 20px;
+}
+
+.circulo{
+    width: 110px;
+    height: 110px;
+    border-radius: 60%;
+    align-items: center;
+    align-content:center;
+    margin: 30px auto 10px;
+
+}
+
+.vermelho{
+    background-color: red;
+}
+.amarelo {
+    background-color: yellow;
+}
