@@ -38,6 +38,7 @@
 
 .verde {
     background-color: green;
+    box-shadow:0 0 20px rgb(6, 255, 6);
 }
 
 .roxo {
@@ -66,7 +67,9 @@
 
 .vermelho{
     background-color: red;
+    box-shadow: 0 0 20px #FF0000;
 }
 .amarelo {
     background-color: yellow;
+    box-shadow: 0 0 20px #eeff01;
 }
