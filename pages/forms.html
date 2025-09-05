@@ -12,7 +12,17 @@
         <form action="#"> 
             <div class="inputs">
                 <label for="nome">Digite o nome do ninja</label>
-                <input type="text" placeholder="Nome..." required/>
+                <input type="text" placeholder="Nome..." name="nome" required/>
+            </div>
+            <div class="rank">
+                <label for="rank">Selecione o nivel do ninja </label>
+                <select name="rank" id="rank">
+                    <option value="Selecione o nivel"></option>
+                    <option value="Genin"> Genin</option>
+                    <option value="Chunin"> Chunin </option>
+                    <option value="Jounin"> Jounin </option>
+                    <option value="Kage"> Kage </option>
+                </select>
             </div>
         </form>
     </section>
